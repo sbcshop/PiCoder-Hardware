@@ -3,7 +3,7 @@
 
 A compact and comprehensive Raspberry Pi Pico W based Learning Kit having onboard actuators, sensors, and LEDs makes learning enjoyable.
 
-This GitHub provides hardware design files PiCoder.
+This GitHub provides hardware design files of PiCoder.
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/PiCoder-Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
