@@ -2,6 +2,7 @@
 100% DIY | 100% Programmable| L&D | RPi Pico | LED Matrix | LDR | 3.2" Touch LCD | BME280 | Ultrasonic Sensor | RFID | Dual USB | POT
 
 A compact and comprehensive Raspberry Pi Pico W based Learning Kit having onboard actuators, sensors, and LEDs makes learning enjoyable.
+PiCoder is an all-in-one STEM learning kit that allows students to work directly with the most common hardware components used in DIY projects.
 
 This GitHub provides hardware design files of PiCoder.
 
